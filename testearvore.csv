@@ -1,0 +1,78 @@
+﻿ID;Pergunta;A;Nó A;B;Nó B
+1;A casa tem um porão menor que 575 pés quadrados?;SIM;2;NÃO;3
+2;"A casa tem a qualidade ""sqft_above"" abaixo de 1190 pés quadrados?";SIM;4;NÃO;5
+3;A condição da casa é menor que 4?;SIM;6;NÃO ;7
+4;A casa tem um porão menor que 285 pés quadrados?;SIM;8;NÃO;9
+5;A casa foi construída antes de 1946;SIM;10;NÃO ;11
+6;O lote da casa tem 9857 ou menos pés quadrados?;SIM;12;NÃO;13
+7;A nota da casa é menor que 8?;SIM;14;NÃO ;15
+8;"A casa tem a qualidade ""sqft_above"" abaixo de 936 pés quadrados?";SIM;16;NÃO;17
+9;A casa foi construída antes de 1942?;SIM;18;NÃO;19
+10;O lote da casa tem menos de 6368 pés quadrados?;SIM;20;NÃO ;21
+11;A casa foi construida antes de 1997?;SIM;22;NÃO ;23
+12;"A casa tem a qualidade ""sqft_above"" abaixo de 1160 pés quadrados?";SIM;24;NÃO;25
+13;Folha;O preço da casa está abaixo da média;;;
+14;A casa tem menos que 5 quartos?;SIM;26;NÃO;27
+15;A casa tem um porão menor que 821 pés quadrados?;SIM;28;NÃO;29
+16;A casa tem um porão menor que 145 pés quadrados?;SIM;30;NÃO;31
+17;O lote da casa é menor que 6151 pés quadrados?;SIM;32;NÃO;33
+18;Folha;O preço da casa está na média do mercado;;;
+19;Folha;O preço da casa está na média do mercado;;;
+20;A condição da casa é menor que 4?;SIM;34;NÃO;35
+21;"A casa tem a qualidade ""sqft_above"" abaixo de 1431 pés quadrados?";SIM;36;NÃO ;37
+22;"A casa tem a qualidade ""sqft_above"" abaixo de 1446 pés quadrados?";SIM;38;NÃO;39
+23;A localização da casa está na classificação 1 ou abaixo?;SIM;40;NÃO ;41
+24;"A casa tem qualidade ""sqft_above"" abaixo de 936 pés quadrados?";SIM;42;NÃO;43
+25;A casa tem apenas 1 piso?;SIM;44;NÃO;45
+26;A localização da casa está na classificação 0?;SIM;46;NÃO;47
+27;Folha;O preço da casa está abaixo da média;;;
+28;Folha;O preço da casa está na média do mercado;;;
+29;A condição da casa é menor que 5?;SIM;48;NÃO;49
+30;Folha;O preço da casa está acima do preço de mercado;;;
+31;Folha;O preço da casa está acima do preço de mercado;;;
+32;A casa está na classificação 0 no quesito banheiros?;SIM;50;NÃO;51
+33;Folha;O preço da casa está na média do mercado;;;
+34;"A casa tem a qualidade ""sqft_above"" menor que 1376 pés quadrados?";SIM;52;NÃO;53
+35;O lote da casa é menor que 5051 pés quadrados?;SIM;54;NÃO;55
+36;Folha;O preço da casa está acima do preço de mercado;;;
+37;Folha;O preço da casa está acima do preço de mercado;;;
+38;Folha;O preço da casa está na média do mercado;;;
+39;A casa foi construída antes de 1952?;SIM;56;NÃO;57
+40;A localização da casa está na classificação 0?;SIM;58;NÃO;59
+41;Folha;O preço da casa está na média do mercado;;;
+42;Folha;O preço da casa está abaixo do valor de mercado;;;
+43;Folha;O preço da casa está abaixo do valor de mercado;;;
+44;Folha;O preço da casa está abaixo do valor de mercado;;;
+45;A casa tem um porão com 906 pés quadrados ou menos?;SIM;60;NÃO;61
+46;"A casa tem a qualidade ""sqft_above"" menor que 1071 pés quadrados?";SIM;62;NÃO;63
+47;"A casa tem a qualidade ""sqft_above"" menor que 1026 pés quadrados?";SIM;64;NÃO;65
+48;Folha;O preço da casa está abaixo do valor de mercado;;;
+49;Folha;O preço da casa está na média do valor de mercado;;;
+50;A localização da casa está na classificação 0?;SIM;66;NÃO;67
+51;Folha;O preço da casa está na média do valor de mercado;;;
+52;Folha;O preço da casa está na média do valor de mercado;;;
+53;Folha;O preço da casa está na média do valor de mercado;;;
+54;Folha;O preço da casa está na média do valor de mercado;;;
+55;Folha;O preço da casa está acima do valor de mercado;;;
+56;Folha;O preço da casa está na média do valor de mercado;;;
+57;A localização da casa está na classificação 1 ou abaixo?;SIM;68;NÃO;69
+58;Folha;O preço da casa está na média do valor de mercado;;;
+59;Folha;O preço da casa está abaixo do valor de mercado;;;
+60;A casa foi construida antes de 1989?;SIM;70;NÃO ;71
+61;Folha;O preço da casa está abaixo do valor de mercado;;;
+62;Folha;O preço da casa está na média do valor de mercado;;;
+63;Folha;O preço da casa está abaixo do valor de mercado;;;
+64;Folha;O preço da casa está abaixo do valor de mercado;;;
+65;"A casa tem a qualidade ""sqft_above"" abaixo de 1241 pés quadrados?";SIM;72;NÃO;73
+66;Folha;O preço da casa está acima do valor de mercado;;;
+67;A casa foi construída antes de 1947?;SIM;74;NÃO;75
+68;Folha;O preço da casa está abaixo do valor de mercado;;;
+69;Folha;O preço da casa está abaixo do valor de mercado;;;
+70;Folha;O preço da casa está abaixo do valor de mercado;;;
+71;Folha;O preço da casa está abaixo do valor de mercado;;;
+72;Folha;O preço da casa está na média do valor de mercado;;;
+73;"A casa tem a qualidade ""sqft_above"" abaixo de 1551";SIM;76;NÃO;77
+74;Folha;O preço da casa está na média do valor de mercado;;;
+75;Folha;O preço da casa está acima do valor de mercado;;;
+76;Folha;O preço da casa está abaixo do valor de mercado;;;
+77;Folha;O preço da casa está abaixo do valor de mercado;;;
